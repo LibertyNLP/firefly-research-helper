@@ -8,3 +8,5 @@
 应用使用视频教程： https://www.bilibili.com/video/BV1aL411u77m/
 
 项目地址 https://firefly.libertynlp.com
+
+## 详细软件使用教程介绍
