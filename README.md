@@ -10,4 +10,4 @@
 项目地址 https://firefly.libertynlp.com
 
 ## 详细软件使用教程介绍
-![image](https://github.com/LibertyNLP/firefly-research-helper/tree/925f8a256a6eef80643fcf0332378e6ebb874a1a/imgs/1.jpg)
+![image](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/1.jpg)
