@@ -10,4 +10,20 @@
 项目地址 https://firefly.libertynlp.com
 
 ## 详细软件使用教程介绍
-![image](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/1.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/1.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/2.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/3.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/4.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/5.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/6.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/7.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/8.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/9.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/10.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/11.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/12.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/13.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/14.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/15.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/16.jpg)
+![imgage](https://github.com/LibertyNLP/firefly-research-helper/blob/main/imgs/17.jpg)
